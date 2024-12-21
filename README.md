@@ -12,5 +12,5 @@ This project implements a deep learning model for detecting malaria in blood cel
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/malaria-detection.git
+   git clone https://github.com/SangamNirala/malaria_detection
    cd malaria-detection
